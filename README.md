@@ -19,7 +19,7 @@
 
 ### Day 3
 - Class Design
-- [Uncle Bob TDD video]()
+- [Uncle Bob TDD video](https://cleancoders.com/episode/clean-code-episode-1/show)
 - [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
 - [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 - FizzBuzz
