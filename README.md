@@ -22,7 +22,7 @@
 - [Uncle Bob TDD video](https://cleancoders.com/episode/clean-code-episode-1/show)
 - [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
 - [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
-- FizzBuzz
+- [FizzBuzz Kata](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/fizz-buzz/)
 - FortuneTeller wrap up
 
 ### Code Jam 1 Resources
