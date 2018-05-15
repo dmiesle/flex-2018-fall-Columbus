@@ -41,5 +41,5 @@
 - Module 2 project
 
 ### Code Jam 2 Resources
--[CodingBat Warmup 2](www.codingbat.com)
+- [CodingBat Warmup 2](http://codingbat.com/java/Warmup-2)
 
