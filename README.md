@@ -30,3 +30,16 @@
 - [Coding Bat Practice](http://codingbat.com/java/Warmup-1)
 
 
+## Code Jam 2
+
+### Day 1
+- FortuneTeller review
+- CodingBat Warmup 2
+- Atm Review
+
+### Day 2
+- Module 2 project
+
+### Code Jam 2 Resources
+-[CodingBat Warmup 2](www.codingbat.com)
+
