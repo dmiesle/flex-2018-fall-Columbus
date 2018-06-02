@@ -1,4 +1,4 @@
-# flex-2018-summer
+# flex-2018-summer-cleveland
 
 ## Code Jam 1
 
@@ -43,3 +43,10 @@
 ### Code Jam 2 Resources
 - [CodingBat Warmup 2](http://codingbat.com/java/Warmup-2)
 
+## Code Jam 3
+
+### Day 1
+- Exploring Inheritance with the Hospital project
+
+### Day 2
+- Module 3 project
