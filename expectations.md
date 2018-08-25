@@ -12,7 +12,7 @@
 - One on ones (15 min increments)
 - 24 hr cancellation notice 
 
-- Question Hierararchy
+- Question Hierarchy
   - Slack the all channel first @alan or @channel (peers first)
   - Google (Stack overflow) 
   - Come to your instructor
