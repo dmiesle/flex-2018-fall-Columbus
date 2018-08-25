@@ -2,12 +2,37 @@
 
 ## Individual
 
+- Give 110% effort...modules, support, struggles
+- Be transparent
+- Be willing to ask for help 
+- Timely preparation 
+- Challenge yourself (stretch tasks) 
+- Be kind to yourself 
+- Set realistic expectations on turn around time 
+- One on ones (15 min increments)
+- 24 hr cancellation notice 
 
+- Question Hierararchy
+  - Slack the all channel first @alan or @channel (peers first)
+  - Google (Stack overflow) 
+  - Come to your instructor
+  
 ## Team
 
-
+- "If you want to go fast go alone...if you want to go far, go together" 
+- Be Transparent
+- Timely preparation
+- Communication
+- Group Hangouts 
 
 ## Instructors/Staff
+
+- Be Transparent 
+- Communication 
+- Mondays after code jams will be pretty quiet
+- Balancing needs and comprehension 
+- Explain it differently 
+
 
 
 
